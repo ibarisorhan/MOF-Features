@@ -1,5 +1,5 @@
-# MOF-Features
-Gather features from CIF files. 
+# MOF-Features Repository
+Gathers features from CIF files. 
 
 
 # Overview 
