@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Barisoo
+@author: i. baris orhan
 
 This file allows for easy extraction of the following features cif files, 
 particularly for metal-organic frameworks:
